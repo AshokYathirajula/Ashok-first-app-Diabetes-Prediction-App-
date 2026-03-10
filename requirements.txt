@@ -1,7 +1,5 @@
- pip install 
- streamlit 
- scikit-learn 
- numpy
+streamlit
+scikit-learn
 pandas
-pip install --upgrade pip
- 
+numpy
+
