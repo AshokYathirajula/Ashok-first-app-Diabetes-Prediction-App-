@@ -2,4 +2,6 @@
  streamlit 
  scikit-learn 
  numpy
- pandas
+pandas
+pip install --upgrade pip
+ 
